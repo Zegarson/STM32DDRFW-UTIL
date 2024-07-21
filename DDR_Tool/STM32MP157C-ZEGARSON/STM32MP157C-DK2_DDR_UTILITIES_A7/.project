@@ -138,24 +138,24 @@
 			<locationURI>PARENT-3-PROJECT_LOC/Drivers/STM32MP1xx_HAL_Driver/Src/stm32mp1xx_hal_uart_ex.c</locationURI>
 		</link>
 		<link>
-			<name>Drivers/BSP/STM32MP15xx_DISCO/stm32mp15xx_disco.c</name>
+			<name>Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp15xx_disco.c</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_DISCO/stm32mp15xx_disco.c</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp15xx_disco.c</locationURI>
 		</link>
 		<link>
-			<name>Drivers/BSP/STM32MP15xx_DISCO/stm32mp15xx_disco_bus.c</name>
+			<name>Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp15xx_disco_bus.c</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_DISCO/stm32mp15xx_disco_bus.c</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp15xx_disco_bus.c</locationURI>
 		</link>
 		<link>
-			<name>Drivers/BSP/STM32MP15xx_DISCO/stm32mp15xx_disco_stpmic1.c</name>
+			<name>Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp15xx_disco_stpmic1.c</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_DISCO/stm32mp15xx_disco_stpmic1.c</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp15xx_disco_stpmic1.c</locationURI>
 		</link>
 		<link>
-			<name>Drivers/BSP/STM32MP15xx_DISCO/stm32mp1xx_power.c</name>
+			<name>Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp1xx_power.c</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_DISCO/stm32mp1xx_power.c</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Drivers/BSP/STM32MP15xx_ZEGARSON/stm32mp1xx_power.c</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
